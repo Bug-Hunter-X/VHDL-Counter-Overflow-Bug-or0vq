@@ -1,0 +1,1 @@
+This repository contains a VHDL code example demonstrating a potential overflow bug in a simple counter. The `buggy_counter.vhdl` file shows the buggy code, which lacks proper handling of the counter's maximum value.  The `fixed_counter.vhdl` file provides a corrected version.
